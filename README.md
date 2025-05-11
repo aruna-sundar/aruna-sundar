@@ -4,7 +4,7 @@
 I'm a forward-thinking **Business Analyst** in the making, passionate about transforming data into actionable insights.
 
 - 🎓 Bachelor of Commerce (Advanced Accounting & Auditing) – Gujarat University  
-- 💼 Former **SEO Executive** at Discover Zero, where I managed 50+ content pieces and used **Google Analytics** + **Excel** to drive data-backed decisions  
+- 💼 Former **SEO Executive** at Discover Zero  
 - 📘 Completed **Business Analytics with Digital Marketing** certification (GUVI)  
 - 🌍 Fluent in English, Hindi, Tamil, and basic Gujarati – enabling effective communication across teams and regions
 
